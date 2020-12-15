@@ -1,1 +1,3 @@
-# Academic-project
+# Academia
+Project for Gec 
+
